@@ -1,16 +1,44 @@
-# smart_home_app
+# 🏡 Smart Home Appliance App  
 
-A new Flutter project.
+Welcome to **Smart Home Appliance App**, a modern Flutter-based application designed to provide seamless control over your smart home devices, including smart lights, smart fans, smart ACs, and smart TVs. This app enables users to automate, schedule, and manage their home appliances efficiently.  
 
-## Getting Started
+## 🚀 Features  
 
-This project is a starting point for a Flutter application.
+✅ **Device Control** – Turn smart lights, fans, ACs, and TVs on/off remotely  
+✅ **Real-Time Status Updates** – View the current status of all connected devices  
+✅ **Scheduling & Automation** – Set timers and schedules for automatic operation  
+✅ **Voice Control Support** – Compatible with voice assistants (if integrated)  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – Cross-platform mobile app development  
+- **Dart** – Programming language  
+- **Provider/Bloc** – State management   
+
+
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/anchirinaahhezekiah/smart_home_app.git
+   cd smart_home_app
+   ```  
+2. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```  
+3. Run the app:  
+   ```sh
+   flutter run
+   ```  
+
+
+## 🤝 Contributing  
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
+## 📜 License  
+
+This project is licensed under the **MIT License**.  
+
